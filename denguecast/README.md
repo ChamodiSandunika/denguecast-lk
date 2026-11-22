@@ -1,8 +1,8 @@
 # DengueCast LK 🦟 — Ensemble Learning Dashboard for Weekly Dengue Cases in Sri Lanka
 
-**Module:** Machine Learning — Hands-on Ensemble Learning Project (10%)
+**Module:** Machine Learning — Hands-on Ensemble Learning Project
 **Student:** Senanayaka S.M.C.S. (224176V)
-**Live dashboard:** `https://<your-app>.streamlit.app` *(add after deployment)*
+**Live dashboard:** https://denguecast-lk.streamlit.app/
 **Video (≤ 3 min):** `<link>` *(add after upload)*
 
 1-week-ahead forecasts of dengue cases for all **26 RDHS divisions** of Sri Lanka, comparing
