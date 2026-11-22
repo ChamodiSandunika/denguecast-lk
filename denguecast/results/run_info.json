@@ -1,0 +1,32 @@
+{
+  "best_model": "Stacking (RF+XGB+LGBM+Cat+Ridge)",
+  "rho_rf": 0.9265103248592587,
+  "rho_bag": 0.9240296474704611,
+  "best_rf": {
+    "max_features": 0.6,
+    "min_samples_leaf": 8
+  },
+  "best_xgb": {
+    "subsample": 0.8,
+    "n_estimators": 300,
+    "min_child_weight": 5,
+    "max_depth": 4,
+    "learning_rate": 0.03,
+    "colsample_bytree": 0.7
+  },
+  "stack_weights": {
+    "RF": 0.05351997586070041,
+    "XGB": 0.13039996579958407,
+    "LGBM": 0.26902148631977796,
+    "CatBoost": 0.12962328009559518,
+    "Ridge": 0.4227961480315544
+  },
+  "train_period": [
+    "2007-12-29",
+    "2023-12-30"
+  ],
+  "test_period": [
+    "2024-01-06",
+    "2026-08-10"
+  ]
+}

@@ -1,0 +1,13 @@
+,2024,2025,2026 (outbreak)
+Stacking (RF+XGB+LGBM+Cat+Ridge),9.11,8.19,34.08
+LightGBM,9.42,8.56,33.99
+Bagging (Decision Trees),9.42,8.52,34.54
+Hybrid B: RF + ANN,9.2,8.71,34.77
+Hybrid A: ARIMA + RF,9.83,8.42,34.35
+ANN (MLP),9.18,8.32,35.71
+Random Forest,9.34,8.45,35.95
+CatBoost,9.52,8.34,36.14
+XGBoost,9.03,8.31,38.28
+Ridge regression,9.58,9.0,36.76
+Naive (last week),10.45,8.68,36.94
+ARIMA (per division),10.03,8.31,40.92
